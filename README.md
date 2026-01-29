@@ -99,11 +99,4 @@ The dashboard provides a strong foundation for further enhancements such as fore
 
 ---
 
-## 🙏 Credits
 
-This project was inspired by the following learning resource:
-📺 [https://youtu.be/6cV3OwFrOkk](https://youtu.be/6cV3OwFrOkk)
-
----
-
-## 🏷️ Badges
